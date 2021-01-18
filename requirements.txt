@@ -1,0 +1,14 @@
+aiogram
+aiohttp
+sqlalchemy>=1.4.0b1
+# selenium>=4.0.0a7
+beautifulsoup4
+
+requests
+fake-useragent
+
+
+
+# cfscrape  # для работы парсера и обхода cloudfare
+# cloudscraper # для работы парсера и обхода cloudfare - альтернатива
+
